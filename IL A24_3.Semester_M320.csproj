@@ -53,6 +53,10 @@
     <Compile Include="KW35_25\ConstructorInheritanceMain.cs" />
     <Compile Include="KW35_25\ConstructorInheritianceMDC.cs" />
     <Compile Include="KW35_25\ConstructorInheritianceMDCMain.cs" />
+    <Compile Include="KW36_25\Aufgaben.cs" />
+    <Compile Include="KW36_25\PartialClasses.cs" />
+    <Compile Include="KW36_25\Sealed.cs" />
+    <Compile Include="KW36_25\SealedMethod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
