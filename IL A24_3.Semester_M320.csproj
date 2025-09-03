@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>IL_A24_3.Semester_M320.KW35_25.ConstructorInheritianceMDCMain</StartupObject>
+    <StartupObject>IL_A24_3.Semester_M320.KW36_25.Lösungen.Lösung1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -54,6 +54,7 @@
     <Compile Include="KW35_25\ConstructorInheritianceMDC.cs" />
     <Compile Include="KW35_25\ConstructorInheritianceMDCMain.cs" />
     <Compile Include="KW36_25\Aufgaben.cs" />
+    <Compile Include="KW36_25\Lösungen\Lösung1.cs" />
     <Compile Include="KW36_25\PartialClasses.cs" />
     <Compile Include="KW36_25\Sealed.cs" />
     <Compile Include="KW36_25\SealedMethod.cs" />

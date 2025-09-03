@@ -33,10 +33,10 @@ namespace IL_A24_3.Semester_M320.KW36_25
 
     class Abgeleitet2 : Abgeleitet
     {
-        public override void ShowMessage()
-        {
-            Console.WriteLine("Message from Abgeleitet 2");
-        }
+        //public override void ShowMessage()
+        //{
+        //    Console.WriteLine("Message from Abgeleitet 2");
+        //}
     }
 
 
