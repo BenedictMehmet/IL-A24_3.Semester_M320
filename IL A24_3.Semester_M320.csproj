@@ -61,6 +61,7 @@
     <Compile Include="KW36_25\SealedMethod.cs" />
     <Compile Include="KW37_25\DependencyInjection.cs" />
     <Compile Include="KW37_25\DependencyInjectionProperty2.cs" />
+    <Compile Include="KW38_25\Aufgaben.cs" />
     <Compile Include="KW38_25\Delegates.cs" />
     <Compile Include="KW38_25\Delegates2.cs" />
     <Compile Include="KW38_25\Polymorphism.cs" />
