@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>IL_A24_3.Semester_M320.KW37_25.DependencyInjectionProperty2</StartupObject>
+    <StartupObject>IL_A24_3.Semester_M320.KW38_25.Delegates2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -61,6 +61,10 @@
     <Compile Include="KW36_25\SealedMethod.cs" />
     <Compile Include="KW37_25\DependencyInjection.cs" />
     <Compile Include="KW37_25\DependencyInjectionProperty2.cs" />
+    <Compile Include="KW38_25\Delegates.cs" />
+    <Compile Include="KW38_25\Delegates2.cs" />
+    <Compile Include="KW38_25\Polymorphism.cs" />
+    <Compile Include="KW38_25\Polymorphism2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
